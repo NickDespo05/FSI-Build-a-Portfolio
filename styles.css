@@ -1,0 +1,63 @@
+body {
+    color: black;
+    background-color: white;
+}
+h1 {
+    font-family: georgia;
+    color: white;
+}
+h2 {
+    font-family: georgia;
+    color: white;
+}
+h3 {
+    font-family: georgia;
+}
+p {
+    font-family: Times new roman;
+}
+.class {
+    font-size: 17px;
+    border-style: ridge;
+    color: black;
+    font-weight: bold;
+    border-width: 0px;
+    border-radius: 3%;
+    border-color: black;
+    background-color: white;
+}
+.div-2 {
+    padding: 20%;
+}
+.div-1 {
+    padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    background-color: white;
+    border-color: black;
+    border-width: 5px;
+}
+.profile-photo {
+    width: auto;
+    height: 5px;
+    border-radius: 40%;
+    border-color: blue;
+    border-width: 50px;
+}
+.list {
+    font-size: 20px;
+    font-weight: bold;
+}
+.button {
+    font-size: 15px;
+    background-color: white;
+    color: blue;
+    border-color: black;
+    font-weight: bold;
+    width: 150px;
+}
+.button:hover {
+    background-color: blue;
+    color: white;
+    border-color: white;
+}
